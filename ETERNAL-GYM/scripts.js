@@ -16,13 +16,6 @@ closeButton.addEventListener("click", () => {
 });
 //abrir/cerrar aside
 
-//efecto maquina de escribir
-
-
-
-
-//efecto maquina de escribir
-
 //Cambiar frase motivadora
 const frasesMotivadoras = [
     "La mejor forma de fracasar, es nunca haberlo intentado. - Desconocido.",
